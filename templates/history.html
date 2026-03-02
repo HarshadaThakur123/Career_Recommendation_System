@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>User Prediction History</title>
+<style>
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(to right, #eef2ff, #f8fafc);
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    background: white;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+h2 {
+    text-align: center;
+    color: #1e293b;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+    text-align: center;
+}
+
+th {
+    background: #2563eb;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background: #f1f5f9;
+}
+
+.back {
+    display: inline-block;
+    margin-top: 20px;
+    background: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.back:hover {
+    background: #1e40af;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h2>📜 Prediction History</h2>
+
+<table>
+<tr>
+    <th>ID</th>
+    <th>Maths</th>
+    <th>Science</th>
+    <th>English</th>
+    <th>History</th>
+    <th>Geography</th>
+    <th>Logical</th>
+    <th>Creative</th>
+    <th>Social</th>
+    <th>Leadership</th>
+    <th>Practical</th>
+    <th>Interest</th>
+    <th>Result</th>
+</tr>
+
+{% for row in data %}
+<tr>
+    <td>{{ row[0] }}</td>
+    <td>{{ row[1] }}</td>
+    <td>{{ row[2] }}</td>
+    <td>{{ row[3] }}</td>
+    <td>{{ row[4] }}</td>
+    <td>{{ row[5] }}</td>
+    <td>{{ row[6] }}</td>
+    <td>{{ row[7] }}</td>
+    <td>{{ row[8] }}</td>
+    <td>{{ row[9] }}</td>
+    <td>{{ row[10] }}</td>
+    <td>{{ row[11] }}</td>
+    <td><b>{{ row[12] }}</b></td>
+</tr>
+{% endfor %}
+
+</table>
+
+<a href="/" class="back">⬅ Back to Home</a>
+
+</div>
+
+</body>
+</html>

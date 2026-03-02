@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Career Guidance System</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 420px;
+    background: #ffffff;
+    padding: 30px 30px 35px;
+    border-radius: 18px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #0f172a;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: #475569;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 600;
+    font-size: 14px;
+    color: #1e293b;
+}
+
+input {
+    width: 100%;
+    padding: 9px 12px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    border-radius: 8px;
+    border: 1px solid #cbd5e1;
+    outline: none;
+    font-size: 14px;
+}
+
+input:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 2px rgba(37,99,235,0.15);
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: linear-gradient(to right, #2563eb, #1d4ed8);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-1px);
+    background: linear-gradient(to right, #1e40af, #1e3a8a);
+}
+
+.footer {
+    text-align: center;
+    margin-top: 18px;
+    font-size: 12px;
+    color: #64748b;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>AI Career Guidance</h2>
+    <div class="subtitle">Smart career stream prediction using AI</div>
+
+    <form action="/predict" method="post">
+
+        <label>Mathematics Marks</label>
+        <input type="number" name="maths" required>
+
+        <label>Science Marks</label>
+        <input type="number" name="science" required>
+
+        <label>History Marks</label>
+        <input type="number" name="history" required>
+
+        <label>Geography Marks</label>
+        <input type="number" name="geography" required>
+
+        <label>English Marks</label>
+        <input type="number" name="english" required>
+
+        <label>Logical Skill (1–10)</label>
+        <input type="number" name="logical" min="1" max="10" required>
+
+        <label>Creative Skill (1–10)</label>
+        <input type="number" name="creative" min="1" max="10" required>
+
+        <label>Social Skill (1–10)</label>
+        <input type="number" name="social" min="1" max="10" required>
+
+        <button type="submit">Predict Career Stream</button>
+    </form>
+
+    <div class="footer">
+        © 2026 AI Career Guidance System
+    </div>
+</div>
+
+</body>
+</html>

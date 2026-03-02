@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dishamitra</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<div class="navbar">
+  <div class="logo">Dishamitra</div>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    {% if current_user.is_authenticated %}
+        <a href="/quiz">Take Quiz</a>
+        <a href="/logout">Logout </a>
+    {% else %}
+        <a href="/login">Login</a>
+    {% endif %}
+</div>
+
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <!-- Replace your hero-text buttons section -->
+<div class="hero-text">
+  <h1>Your AI Career Guide</h1>
+  <p>Helping students choose the right future path.</p>
+  
+  <div class="button-group">  <!-- NEW WRAPPER -->
+    <a href="/chat"><button>Start Chat</button></a>
+    <a href="/quiz"><button class="outline">Take Quiz</button></a>
+    <a href="/model_report"><button style="background: #10b981;">📊 Model Report</button></a>
+  </div>
+</div>
+
+
+
+
+
+  <div class="hero-img">
+    <img id="slider" src="/static/img1.jpg">
+  </div>
+</div>
+
+<script>
+let images = ["/static/img1.jpg", "/static/img2.jpg"];
+let i = 0;
+
+setInterval(() => {
+  i = (i + 1) % images.length;
+  document.getElementById("slider").src = images[i];
+}, 3000);
+</script>
+
+</body>
+</html>

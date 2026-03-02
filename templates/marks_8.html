@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>8th Marks</title>
+<style>
+body {
+  margin:0;
+  font-family: "Segoe UI", Arial;
+  background: linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.card {
+  width:420px;
+  background:white;
+  padding:30px;
+  border-radius:18px;
+  box-shadow:0 20px 40px rgba(0,0,0,.3);
+}
+h2 { text-align:center; color:#1e293b; }
+input {
+  width:100%;
+  padding:10px;
+  margin:8px 0;
+  border-radius:8px;
+  border:1px solid #cbd5e1;
+}
+button {
+  width:100%;
+  padding:12px;
+  margin-top:12px;
+  border:none;
+  border-radius:10px;
+  background:#2563eb;
+  color:white;
+  font-size:16px;
+  cursor:pointer;
+}
+button:hover { background:#1e40af; }
+</style>
+</head>
+<body>
+
+<div class="card">
+<h2>📘 8th Class Marks</h2>
+
+<form action="/marks9" method="post">
+<input name="maths8" placeholder="Maths Marks" required>
+<input name="science8" placeholder="Science Marks" required>
+<input name="english8" placeholder="English Marks" required>
+<input name="history8" placeholder="History Marks" required>
+<input name="geography8" placeholder="Geography Marks" required>
+<button>Next →</button>
+</form>
+</div>
+
+</body>
+</html>

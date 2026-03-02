@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Psychometric Test</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 760px;
+    max-width: 95%;
+    background: #ffffff;
+    padding: 35px 40px;
+    border-radius: 22px;
+    box-shadow: 0 20px 45px rgba(0,0,0,0.35);
+}
+
+h2 {
+    text-align: center;
+    color: #0f172a;
+    margin-bottom: 6px;
+    font-size: 28px;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: #64748b;
+    margin-bottom: 30px;
+}
+
+.question {
+    margin-bottom: 18px;
+}
+
+.question p {
+    margin: 0 0 6px;
+    font-weight: 600;
+    color: #1e293b;
+}
+
+select, textarea {
+    width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 1px solid #cbd5e1;
+    outline: none;
+    font-size: 14px;
+    background: #f8fafc;
+}
+
+select:focus, textarea:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37,99,235,0.2);
+    background: #ffffff;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+button {
+    width: 100%;
+    margin-top: 25px;
+    padding: 14px;
+    background: linear-gradient(to right, #2563eb, #1d4ed8);
+    color: white;
+    border: none;
+    border-radius: 14px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    background: linear-gradient(to right, #1e40af, #1e3a8a);
+}
+
+.footer {
+    text-align: center;
+    margin-top: 22px;
+    font-size: 12px;
+    color: #64748b;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h2>🧠 Psychometric Test</h2>
+<div class="subtitle">Aptitude & Personality Assessment</div>
+
+<form action="/predict" method="post">
+
+<div class="question">
+<p>1. I enjoy solving puzzles.</p>
+<select name="q1" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>2. I like creating new designs.</p>
+<select name="q2" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>3. I enjoy helping and teaching others.</p>
+<select name="q3" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>4. I like taking leadership roles.</p>
+<select name="q4" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>5. I enjoy working with numbers.</p>
+<select name="q5" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>6. I like drawing, music, or art.</p>
+<select name="q6" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>7. I feel comfortable speaking in front of people.</p>
+<select name="q7" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>8. I enjoy experiments and research.</p>
+<select name="q8" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>9. I like planning and organizing tasks.</p>
+<select name="q9" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>10. I prefer practical work over theory.</p>
+<select name="q10" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>11. I like solving real-world problems.</p>
+<select name="q11" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>12. I enjoy working in a team.</p>
+<select name="q12" required>
+<option value="">-- Select --</option>
+<option value="1">Strongly Disagree</option>
+<option value="2">Disagree</option>
+<option value="3">Agree</option>
+<option value="4">Strongly Agree</option>
+</select>
+</div>
+
+<div class="question">
+<p>Write your interest:</p>
+<textarea name="interest_text" placeholder="Eg: technology, design, business, medicine..." required></textarea>
+</div>
+
+<button type="submit">Submit Assessment</button>
+
+<div class="footer">
+© 2026 AI Career Guidance System
+</div>
+
+</form>
+</div>
+
+</body>
+</html>

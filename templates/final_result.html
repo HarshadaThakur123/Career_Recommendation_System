@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Final Career Result</title>
+<style>
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(to right, #eef2ff, #f8fafc);
+}
+
+.box {
+    width: 550px;
+    margin: auto;
+    margin-top: 80px;
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    box-shadow: 0 0 18px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+h2 {
+    color: #1e293b;
+    margin-bottom: 10px;
+}
+
+.field {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2563eb;
+    margin: 20px 0;
+}
+
+.desc {
+    font-size: 16px;
+    color: #475569;
+    margin-bottom: 25px;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+    background: #2563eb;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+a:hover {
+    background: #1d4ed8;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+    <h2>🎯 Your Best Career Match</h2>
+
+    <div class="field">{{ field }}</div>
+
+    <div class="desc">
+        Based on your aptitude test and interests, this field suits you the most.
+        Explore this path further and plan your career accordingly.
+    </div>
+
+    <a href="/">🔁 Take Test Again</a>
+</div>
+
+</body>
+</html>

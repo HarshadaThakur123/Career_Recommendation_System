@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register - Dishamitra</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="box" style="max-width: 400px; margin-top: 100px;">
+    <h2>🎓 Join Dishamitra</h2>
+    {% if error %}
+        <div style="color: #ef4444; padding: 10px; background: #fee2e2; border-radius: 8px;">
+            {{ error }}
+        </div>
+    {% endif %}
+    <form method="POST">
+        <input type="text" name="name" placeholder="Full Name" required style="margin-bottom: 15px;">
+        <input type="email" name="email" placeholder="Email" required style="margin-bottom: 15px;">
+        <input type="password" name="password" placeholder="Password (min 6 chars)" required>
+        <button type="submit" style="margin-top: 15px;">Create Account</button>
+    </form>
+    <p style="text-align: center; margin-top: 20px;">
+        Already have account? <a href="/login">Login</a>
+    </p>
+</div>
+</body>
+</html>

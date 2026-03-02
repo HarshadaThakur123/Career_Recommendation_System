@@ -1,1 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AI Career Chatbot</title>
+<style>
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(to right, #e0e7ff, #f8fafc);
+    margin: 0;
+    padding: 0;
+}
 
+.box {
+    width: 520px;
+    margin: auto;
+    margin-top: 70px;
+    background: white;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+h2 {
+    text-align: center;
+    color: #1e293b;
+    margin-bottom: 15px;
+}
+
+.chat-area {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #cbd5e1;
+    padding: 12px;
+    border-radius: 10px;
+    background: #f8fafc;
+    margin-bottom: 12px;
+}
+
+.user {
+    text-align: right;
+    color: #1d4ed8;
+    margin: 6px 0;
+    font-weight: bold;
+}
+
+.bot {
+    text-align: left;
+    color: #0f172a;
+    margin: 6px 0;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #cbd5e1;
+    font-size: 14px;
+}
+
+button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 12px;
+    background: linear-gradient(to right, #2563eb, #1d4ed8);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background: linear-gradient(to right, #1e40af, #1e3a8a);
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h2>🤖 AI Career Advisor Chatbot</h2>
+
+<div id="chat" class="chat-area"></div>
+
+<input type="text" id="msg" placeholder="Type your interest... (e.g. I like biology and helping people)">
+<button onclick="sendMessage()">Send</button>
+</div>
+
+<script>
+function sendMessage(){
+    let msg = document.getElementById("msg").value;
+    if(msg.trim() === "") return;
+
+    let chat = document.getElementById("chat");
+
+    chat.innerHTML += `<div class="user">You: ${msg}</div>`;
+
+    let formData = new FormData();
+    formData.append("message", msg);
+
+    fetch("/chatbot", {
+        method: "POST",
+        body: formData
+    })
+    .then(res => res.json())
+    .then(data => {
+        chat.innerHTML += `<div class="bot">Bot: ${data.reply}</div>`;
+        chat.scrollTop = chat.scrollHeight;
+    });
+
+    document.getElementById("msg").value = "";
+}
+</script>
+
+</body>
+</html>

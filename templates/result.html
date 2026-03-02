@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prediction Result</title>
+<style>
+body{
+  margin:0;
+  font-family: "Segoe UI", Arial;
+  background: linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.card{
+  width:520px;
+  background:white;
+  padding:30px;
+  border-radius:18px;
+  box-shadow:0 15px 40px rgba(0,0,0,.35);
+  text-align:center;
+}
+
+h2{ color:#1e293b; }
+
+.stream{
+  font-size:26px;
+  margin:15px 0;
+  color:#2563eb;
+  font-weight:bold;
+}
+
+.btn{
+  display:block;
+  margin:12px auto;
+  padding:12px;
+  width:80%;
+  border-radius:10px;
+  background:#2563eb;
+  color:white;
+  text-decoration:none;
+  font-size:16px;
+}
+.btn:hover{ background:#1e40af; }
+</style>
+</head>
+<body>
+
+<div class="card">
+<h2>🎯 Recommended Stream</h2>
+
+<div class="stream">{{ top_stream }}</div>
+
+<p>Select career domain:</p>
+
+{% if top_stream == "Science" %}
+<a class="btn" href="/science_test">Science Careers</a>
+{% elif top_stream == "Arts" %}
+<a class="btn" href="/arts_test">Arts Careers</a>
+{% elif top_stream == "Commerce" %}
+<a class="btn" href="/commerce_test">Commerce Careers</a>
+{% endif %}
+
+</div>
+
+</body>
+</html>
