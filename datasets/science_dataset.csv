@@ -1,0 +1,501 @@
+logical,creative,social,leadership,practical,interest_text,career
+4,3,5,2,3,I like movement and want to work in this field,Physiotherapist
+3,2,3,3,2,I like chemistry and want to work in this field,Chemist
+3,4,4,3,3,I like planning and want to work in this field,Product Manager
+5,5,3,4,4,I like product and want to work in this field,Product Manager
+5,5,4,2,4,I like patients and want to work in this field,Nurse
+3,4,5,4,4,I like games and want to work in this field,Game Developer
+3,5,3,3,2,I like sales and want to work in this field,MBA Marketing
+5,2,5,5,5,I like genetics and want to work in this field,Biotech Scientist
+4,4,4,4,5,I like engines and want to work in this field,Mechanical Engineer
+5,5,3,5,2,I like care and want to work in this field,Nurse
+5,5,3,5,4,I like aws and want to work in this field,Cloud Engineer
+4,3,5,2,5,I like statistics and want to work in this field,Data Scientist
+4,2,2,2,4,I like genetics and want to work in this field,Biotech Scientist
+5,2,4,2,4,I like data and want to work in this field,Data Scientist
+4,3,2,5,3,I like genetics and want to work in this field,Biotech Scientist
+4,3,5,4,2,I like servers and want to work in this field,Cloud Engineer
+5,5,2,2,4,I like ai and want to work in this field,AI Engineer
+3,2,3,3,5,I like robotics and want to work in this field,Electronics Engineer
+4,5,5,2,5,I like education and want to work in this field,Professor
+3,2,5,4,2,I like web3 and want to work in this field,Blockchain Developer
+3,2,5,5,4,I like markets and want to work in this field,MBA Finance
+5,5,3,4,3,I like markets and want to work in this field,MBA Finance
+3,4,2,3,4,I like chemistry and want to work in this field,Pharmacist
+5,4,2,4,5,I like space and want to work in this field,Astrophysicist
+3,3,3,4,3,I like studies and want to work in this field,Researcher
+4,5,5,2,2,I like movement and want to work in this field,Physiotherapist
+5,4,4,5,5,I like circuits and want to work in this field,Electronics Engineer
+3,4,3,5,4,I like product and want to work in this field,Product Manager
+5,4,3,2,2,I like virtual reality and want to work in this field,AR VR Engineer
+4,4,2,5,4,I like coding and want to work in this field,Software Engineer
+5,5,4,2,5,I like studies and want to work in this field,Researcher
+5,4,3,5,4,I like blockchain and want to work in this field,Blockchain Developer
+4,2,4,3,5,I like biotech and want to work in this field,Biotech Scientist
+5,2,2,4,2,I like strategy and want to work in this field,Business Analyst
+5,2,2,3,3,I like teaching and want to work in this field,Professor
+5,2,4,2,4,I like universe and want to work in this field,Astrophysicist
+4,5,4,4,4,I like patients and want to work in this field,Nurse
+5,3,3,3,3,I like ai and want to work in this field,AI Engineer
+5,4,5,2,3,I like management and want to work in this field,MBA HR
+3,4,4,4,2,I like markets and want to work in this field,MBA Finance
+5,5,4,5,2,I like circuits and want to work in this field,Electronics Engineer
+3,4,4,4,3,I like crypto and want to work in this field,Blockchain Developer
+3,2,5,5,2,I like teaching and want to work in this field,Professor
+3,5,3,5,5,I like stars and want to work in this field,Astrophysicist
+5,4,4,5,3,I like neural networks and want to work in this field,AI Engineer
+4,2,3,2,4,I like metaverse and want to work in this field,AR VR Engineer
+3,2,2,2,2,I like games and want to work in this field,Game Developer
+5,5,2,4,2,I like blockchain and want to work in this field,Blockchain Developer
+4,3,5,2,4,I like machines and want to work in this field,Mechanical Engineer
+3,2,2,2,2,I like medicine and want to work in this field,Pharmacist
+4,4,5,5,4,I like mechanics and want to work in this field,Mechanical Engineer
+5,5,3,3,4,I like biotech and want to work in this field,Biotech Scientist
+5,4,5,5,5,I like sales and want to work in this field,MBA Marketing
+4,4,4,3,3,I like patients and want to work in this field,Nurse
+4,5,5,3,5,I like coding and want to work in this field,Software Engineer
+3,2,5,5,4,I like robotics and want to work in this field,Electronics Engineer
+4,4,5,3,3,I like data and want to work in this field,Data Scientist
+5,4,4,5,2,I like teeth and want to work in this field,Dentist
+3,2,3,2,3,I like strategy and want to work in this field,Business Analyst
+3,2,5,3,3,I like patients and want to work in this field,Nurse
+5,3,5,2,3,I like biology and want to work in this field,Biotech Scientist
+3,2,3,5,5,I like experiments and want to work in this field,Scientist
+5,4,4,4,4,I like teaching and want to work in this field,Professor
+3,3,5,2,3,I like security and want to work in this field,Cyber Security Engineer
+5,4,2,3,4,I like electronics and want to work in this field,Electronics Engineer
+4,5,4,3,2,I like neural networks and want to work in this field,AI Engineer
+5,2,2,2,4,I like cloud and want to work in this field,Cloud Engineer
+5,5,2,5,5,I like business and want to work in this field,Business Analyst
+3,2,2,2,3,I like apps and want to work in this field,Software Engineer
+4,3,3,3,5,I like neural networks and want to work in this field,AI Engineer
+5,4,4,3,2,I like 3d and want to work in this field,AR VR Engineer
+3,5,2,3,4,I like crypto and want to work in this field,Blockchain Developer
+4,2,5,4,2,I like chemistry and want to work in this field,Pharmacist
+4,2,2,5,2,I like stars and want to work in this field,Astrophysicist
+5,4,5,4,3,I like research and want to work in this field,Researcher
+4,4,5,3,5,I like games and want to work in this field,Game Developer
+4,5,5,3,5,I like unity and want to work in this field,Game Developer
+5,4,5,4,4,I like teaching and want to work in this field,Professor
+4,5,5,3,4,I like virtual reality and want to work in this field,AR VR Engineer
+3,3,4,5,5,I like unity and want to work in this field,Game Developer
+3,2,2,2,2,I like hospital and want to work in this field,Nurse
+5,3,2,2,4,I like sales and want to work in this field,MBA Marketing
+5,2,2,4,4,I like marketing and want to work in this field,MBA Marketing
+3,4,3,3,5,I like science and want to work in this field,Scientist
+4,5,2,5,4,I like branding and want to work in this field,MBA Marketing
+5,4,5,2,4,I like biotech and want to work in this field,Biotech Scientist
+4,4,4,5,4,I like stars and want to work in this field,Astrophysicist
+3,5,5,2,3,I like mechanics and want to work in this field,Mechanical Engineer
+4,5,4,3,5,I like papers and want to work in this field,Researcher
+3,5,4,5,3,I like movement and want to work in this field,Physiotherapist
+5,2,5,3,5,I like cloud and want to work in this field,Cloud Engineer
+3,5,3,4,2,I like programming and want to work in this field,Software Engineer
+3,2,4,2,5,I like hospital and want to work in this field,Nurse
+3,4,4,5,4,I like education and want to work in this field,Professor
+5,4,2,5,3,I like healthcare and want to work in this field,Doctor
+4,5,3,2,4,I like movement and want to work in this field,Physiotherapist
+3,2,4,2,2,I like chemistry and want to work in this field,Chemist
+5,3,4,5,3,I like patients and want to work in this field,Nurse
+3,2,4,3,3,I like science and want to work in this field,Scientist
+5,2,2,5,5,I like hospital and want to work in this field,Nurse
+3,2,4,5,5,I like ai and want to work in this field,AI Engineer
+4,5,2,3,2,I like robotics and want to work in this field,Electronics Engineer
+5,2,4,2,2,I like branding and want to work in this field,MBA Marketing
+4,3,5,5,2,I like web3 and want to work in this field,Blockchain Developer
+4,2,3,5,3,I like robotics and want to work in this field,Electronics Engineer
+4,3,3,4,5,I like genetics and want to work in this field,Biotech Scientist
+5,3,5,5,2,I like medicine and want to work in this field,Doctor
+5,5,4,5,2,I like aws and want to work in this field,Cloud Engineer
+3,2,3,3,5,I like coding and want to work in this field,Software Engineer
+5,5,3,2,4,I like hr and want to work in this field,MBA HR
+5,2,3,5,2,I like robotics and want to work in this field,Electronics Engineer
+4,3,3,4,3,I like networks and want to work in this field,Cyber Security Engineer
+3,2,3,4,3,I like molecules and want to work in this field,Chemist
+3,4,5,4,3,I like machine learning and want to work in this field,AI Engineer
+5,2,5,2,3,I like experiments and want to work in this field,Scientist
+3,2,5,5,3,I like education and want to work in this field,Professor
+3,3,2,5,3,I like teeth and want to work in this field,Dentist
+4,2,4,4,3,I like universe and want to work in this field,Astrophysicist
+3,2,5,3,3,I like molecules and want to work in this field,Chemist
+3,4,4,2,3,I like cloud and want to work in this field,Cloud Engineer
+5,5,5,2,2,I like sales and want to work in this field,MBA Marketing
+4,2,2,4,5,I like data and want to work in this field,Data Scientist
+3,5,4,5,2,I like statistics and want to work in this field,Data Scientist
+4,4,2,3,2,I like oral health and want to work in this field,Dentist
+4,4,4,3,2,I like statistics and want to work in this field,Data Scientist
+3,5,5,3,2,I like ai and want to work in this field,AI Engineer
+5,4,4,2,5,I like ai and want to work in this field,AI Engineer
+3,5,2,4,3,I like science and want to work in this field,Scientist
+4,3,5,5,3,I like roadmap and want to work in this field,Product Manager
+5,3,4,5,5,I like biotech and want to work in this field,Biotech Scientist
+4,3,3,2,4,I like medicine and want to work in this field,Doctor
+5,4,3,2,5,I like roadmap and want to work in this field,Product Manager
+3,3,5,5,2,I like servers and want to work in this field,Cloud Engineer
+4,3,4,5,3,I like oral health and want to work in this field,Dentist
+5,5,3,5,5,I like rehab and want to work in this field,Physiotherapist
+3,4,3,3,3,I like aws and want to work in this field,Cloud Engineer
+3,5,3,2,4,I like mechanics and want to work in this field,Mechanical Engineer
+3,5,2,4,2,I like software and want to work in this field,Software Engineer
+4,3,5,3,4,I like sales and want to work in this field,MBA Marketing
+3,3,2,5,5,I like oral health and want to work in this field,Dentist
+4,4,4,5,2,I like biology and want to work in this field,Biotech Scientist
+4,2,5,4,5,I like experiments and want to work in this field,Scientist
+4,5,2,5,4,I like analysis and want to work in this field,Business Analyst
+4,5,5,4,2,I like markets and want to work in this field,MBA Finance
+5,3,2,4,2,I like sales and want to work in this field,MBA Marketing
+4,4,2,3,5,I like patients and want to work in this field,Nurse
+5,4,3,5,3,I like planning and want to work in this field,Product Manager
+4,3,3,2,4,I like genetics and want to work in this field,Biotech Scientist
+3,5,4,4,2,I like marketing and want to work in this field,MBA Marketing
+5,2,2,5,5,I like people and want to work in this field,MBA HR
+4,5,4,4,5,I like movement and want to work in this field,Physiotherapist
+3,3,3,4,2,I like education and want to work in this field,Professor
+5,4,3,3,2,I like 3d and want to work in this field,AR VR Engineer
+5,3,2,3,3,I like therapy and want to work in this field,Physiotherapist
+3,2,2,2,4,I like blockchain and want to work in this field,Blockchain Developer
+3,2,4,3,4,I like business and want to work in this field,Business Analyst
+4,4,3,4,2,I like space and want to work in this field,Astrophysicist
+4,3,4,2,3,I like management and want to work in this field,MBA HR
+4,5,2,4,5,I like management and want to work in this field,MBA HR
+5,3,3,4,2,I like studies and want to work in this field,Researcher
+4,3,5,5,4,I like people and want to work in this field,MBA HR
+5,5,2,5,2,I like virtual reality and want to work in this field,AR VR Engineer
+3,2,4,4,5,I like cloud and want to work in this field,Cloud Engineer
+3,5,5,3,2,I like stars and want to work in this field,Astrophysicist
+4,4,3,4,3,I like drugs and want to work in this field,Pharmacist
+4,3,3,2,4,I like engines and want to work in this field,Mechanical Engineer
+3,5,4,3,5,I like space and want to work in this field,Astrophysicist
+4,2,5,2,5,I like biotech and want to work in this field,Biotech Scientist
+5,4,5,5,3,I like graphics and want to work in this field,Game Developer
+5,3,4,2,4,I like care and want to work in this field,Nurse
+3,5,5,3,4,I like analysis and want to work in this field,Data Scientist
+4,3,3,2,4,I like strategy and want to work in this field,Business Analyst
+3,2,4,5,2,I like medicine and want to work in this field,Doctor
+5,4,3,5,3,I like therapy and want to work in this field,Physiotherapist
+5,3,4,3,4,I like networks and want to work in this field,Cyber Security Engineer
+3,4,2,4,2,I like marketing and want to work in this field,MBA Marketing
+4,2,4,4,5,I like web3 and want to work in this field,Blockchain Developer
+3,2,5,2,4,I like web3 and want to work in this field,Blockchain Developer
+3,5,5,2,4,I like science and want to work in this field,Scientist
+3,4,5,4,4,I like markets and want to work in this field,MBA Finance
+4,3,2,5,2,I like machine learning and want to work in this field,AI Engineer
+4,4,2,4,5,I like analysis and want to work in this field,Data Scientist
+3,2,4,5,2,I like engines and want to work in this field,Mechanical Engineer
+3,2,4,2,3,I like finance and want to work in this field,MBA Finance
+4,4,4,5,5,I like 3d and want to work in this field,AR VR Engineer
+3,2,2,3,5,I like strategy and want to work in this field,Business Analyst
+4,5,3,5,5,I like rehab and want to work in this field,Physiotherapist
+4,2,2,2,4,I like medicine and want to work in this field,Doctor
+3,3,5,5,4,I like neural networks and want to work in this field,AI Engineer
+5,2,5,2,3,I like hr and want to work in this field,MBA HR
+4,2,5,5,5,I like hacking and want to work in this field,Cyber Security Engineer
+5,5,3,3,2,I like education and want to work in this field,Professor
+3,3,4,3,5,I like machine learning and want to work in this field,AI Engineer
+5,4,2,4,4,I like programming and want to work in this field,Software Engineer
+4,2,5,4,4,I like unity and want to work in this field,Game Developer
+3,3,3,3,3,I like circuits and want to work in this field,Electronics Engineer
+5,5,3,5,4,I like business and want to work in this field,Business Analyst
+5,3,4,2,2,I like oral health and want to work in this field,Dentist
+3,5,2,3,2,I like business and want to work in this field,Business Analyst
+5,3,2,2,3,I like machine learning and want to work in this field,AI Engineer
+5,4,5,2,2,I like mechanics and want to work in this field,Mechanical Engineer
+5,3,3,3,5,I like analysis and want to work in this field,Business Analyst
+4,3,5,5,5,I like metaverse and want to work in this field,AR VR Engineer
+3,4,5,2,5,I like roadmap and want to work in this field,Product Manager
+4,3,5,3,2,I like drugs and want to work in this field,Pharmacist
+5,5,2,3,5,I like medicine and want to work in this field,Doctor
+5,5,4,4,3,I like finance and want to work in this field,MBA Finance
+3,3,5,5,3,I like product and want to work in this field,Product Manager
+4,4,2,5,3,I like finance and want to work in this field,MBA Finance
+3,5,2,3,3,I like networks and want to work in this field,Cyber Security Engineer
+4,3,4,4,4,I like virtual reality and want to work in this field,AR VR Engineer
+4,5,2,2,2,I like business and want to work in this field,Business Analyst
+5,4,4,4,3,I like genetics and want to work in this field,Biotech Scientist
+4,5,5,3,4,I like security and want to work in this field,Cyber Security Engineer
+4,5,5,2,3,I like healthcare and want to work in this field,Doctor
+5,2,3,4,4,I like cloud and want to work in this field,Cloud Engineer
+5,5,4,3,3,I like blockchain and want to work in this field,Blockchain Developer
+4,3,2,5,2,I like teeth and want to work in this field,Dentist
+4,4,2,3,5,I like machines and want to work in this field,Mechanical Engineer
+4,4,2,3,4,I like oral health and want to work in this field,Dentist
+3,4,2,3,3,I like blockchain and want to work in this field,Blockchain Developer
+3,4,4,5,5,I like data and want to work in this field,Data Scientist
+3,4,5,5,4,I like branding and want to work in this field,MBA Marketing
+3,3,3,3,2,I like programming and want to work in this field,Software Engineer
+3,2,4,2,4,I like movement and want to work in this field,Physiotherapist
+3,5,4,4,4,I like investment and want to work in this field,MBA Finance
+5,4,4,4,4,I like papers and want to work in this field,Researcher
+4,3,4,5,5,I like programming and want to work in this field,Software Engineer
+3,2,4,2,2,I like servers and want to work in this field,Cloud Engineer
+3,5,4,4,5,I like cloud and want to work in this field,Cloud Engineer
+4,4,5,3,2,I like medicine and want to work in this field,Pharmacist
+4,5,2,5,3,I like rehab and want to work in this field,Physiotherapist
+5,2,2,5,2,I like science and want to work in this field,Scientist
+4,4,5,3,5,I like networks and want to work in this field,Cyber Security Engineer
+4,2,3,4,5,I like rehab and want to work in this field,Physiotherapist
+5,4,5,4,5,I like molecules and want to work in this field,Chemist
+5,3,3,5,4,I like teaching and want to work in this field,Professor
+3,4,3,2,4,I like hospital and want to work in this field,Nurse
+4,5,3,4,3,I like cloud and want to work in this field,Cloud Engineer
+3,2,3,3,3,I like business and want to work in this field,Business Analyst
+4,2,3,5,5,I like stars and want to work in this field,Astrophysicist
+3,4,2,3,4,I like machines and want to work in this field,Mechanical Engineer
+4,3,5,2,2,I like patients and want to work in this field,Doctor
+4,3,3,3,5,I like biology and want to work in this field,Biotech Scientist
+3,5,2,2,3,I like studies and want to work in this field,Researcher
+5,3,4,2,4,I like machine learning and want to work in this field,AI Engineer
+3,2,5,3,4,I like oral health and want to work in this field,Dentist
+3,4,3,4,3,I like machines and want to work in this field,Mechanical Engineer
+5,2,4,2,5,I like patients and want to work in this field,Nurse
+3,4,5,3,4,I like academics and want to work in this field,Professor
+5,5,2,5,3,I like patients and want to work in this field,Doctor
+4,4,4,2,5,I like research and want to work in this field,Researcher
+3,4,4,4,4,I like security and want to work in this field,Cyber Security Engineer
+3,5,2,3,5,I like teaching and want to work in this field,Professor
+3,3,5,3,4,I like cloud and want to work in this field,Cloud Engineer
+4,4,5,5,4,I like medicine and want to work in this field,Pharmacist
+5,4,2,5,5,I like chemistry and want to work in this field,Pharmacist
+5,4,2,3,4,I like genetics and want to work in this field,Biotech Scientist
+4,2,5,4,2,I like roadmap and want to work in this field,Product Manager
+3,2,5,4,3,I like 3d and want to work in this field,AR VR Engineer
+4,5,2,3,4,I like studies and want to work in this field,Researcher
+4,2,4,4,4,I like robotics and want to work in this field,Electronics Engineer
+4,4,3,2,2,I like investment and want to work in this field,MBA Finance
+4,4,4,3,4,I like graphics and want to work in this field,Game Developer
+4,5,4,3,3,I like papers and want to work in this field,Researcher
+3,3,3,4,4,I like chemistry and want to work in this field,Chemist
+3,5,2,3,5,I like papers and want to work in this field,Researcher
+3,4,2,2,3,I like coding and want to work in this field,Software Engineer
+4,5,2,4,2,I like medicine and want to work in this field,Pharmacist
+5,3,2,5,4,I like research and want to work in this field,Scientist
+4,5,4,3,4,I like teaching and want to work in this field,Professor
+3,5,5,5,5,I like therapy and want to work in this field,Physiotherapist
+3,3,5,4,4,I like graphics and want to work in this field,Game Developer
+4,3,5,2,5,I like teaching and want to work in this field,Professor
+3,4,2,2,2,I like circuits and want to work in this field,Electronics Engineer
+4,3,5,5,2,I like teaching and want to work in this field,Professor
+5,2,2,4,2,I like biology and want to work in this field,Biotech Scientist
+4,2,5,4,5,I like biotech and want to work in this field,Biotech Scientist
+3,3,5,5,3,I like biotech and want to work in this field,Biotech Scientist
+5,4,4,2,3,I like experiments and want to work in this field,Scientist
+4,3,3,3,2,I like machine learning and want to work in this field,AI Engineer
+3,5,4,3,5,I like 3d and want to work in this field,AR VR Engineer
+5,4,3,3,2,I like apps and want to work in this field,Software Engineer
+3,5,5,4,3,I like patients and want to work in this field,Nurse
+3,3,4,4,5,I like medicine and want to work in this field,Doctor
+5,5,5,5,3,I like academics and want to work in this field,Professor
+5,2,3,2,3,I like crypto and want to work in this field,Blockchain Developer
+5,5,4,2,3,I like teeth and want to work in this field,Dentist
+5,2,4,2,2,I like virtual reality and want to work in this field,AR VR Engineer
+4,2,3,4,3,I like science and want to work in this field,Scientist
+5,2,3,4,2,I like electronics and want to work in this field,Electronics Engineer
+3,5,5,3,5,I like blockchain and want to work in this field,Blockchain Developer
+4,4,5,2,2,I like experiments and want to work in this field,Scientist
+3,4,2,4,2,I like strategy and want to work in this field,Business Analyst
+3,5,3,2,5,I like people and want to work in this field,MBA HR
+4,5,2,4,2,I like data and want to work in this field,Data Scientist
+5,2,4,5,2,I like science and want to work in this field,Scientist
+5,3,5,2,3,I like electronics and want to work in this field,Electronics Engineer
+5,4,3,2,5,I like coding and want to work in this field,Software Engineer
+5,3,5,5,2,I like markets and want to work in this field,MBA Finance
+5,4,2,4,3,I like investment and want to work in this field,MBA Finance
+3,4,3,5,2,I like security and want to work in this field,Cyber Security Engineer
+3,5,2,3,5,I like chemistry and want to work in this field,Chemist
+4,5,4,4,4,I like oral health and want to work in this field,Dentist
+3,3,3,5,3,I like studies and want to work in this field,Researcher
+3,5,5,4,2,I like movement and want to work in this field,Physiotherapist
+4,3,5,3,3,I like analysis and want to work in this field,Data Scientist
+5,3,2,3,3,I like academics and want to work in this field,Professor
+5,4,5,3,5,I like research and want to work in this field,Scientist
+5,4,2,4,5,I like electronics and want to work in this field,Electronics Engineer
+4,5,2,5,2,I like management and want to work in this field,MBA HR
+3,2,2,5,5,I like security and want to work in this field,Cyber Security Engineer
+5,5,4,5,4,I like genetics and want to work in this field,Biotech Scientist
+5,3,3,2,4,I like research and want to work in this field,Researcher
+5,2,3,2,4,I like universe and want to work in this field,Astrophysicist
+5,3,3,4,5,I like engines and want to work in this field,Mechanical Engineer
+5,5,4,3,4,I like healthcare and want to work in this field,Doctor
+5,4,4,3,4,I like rehab and want to work in this field,Physiotherapist
+3,2,2,4,3,I like movement and want to work in this field,Physiotherapist
+4,4,5,2,2,I like machines and want to work in this field,Mechanical Engineer
+3,4,3,4,4,I like networks and want to work in this field,Cyber Security Engineer
+4,5,5,2,4,I like experiments and want to work in this field,Scientist
+3,3,3,2,4,I like programming and want to work in this field,Software Engineer
+4,5,4,3,2,I like academics and want to work in this field,Professor
+4,3,5,5,4,I like machine learning and want to work in this field,AI Engineer
+4,4,2,4,3,I like aws and want to work in this field,Cloud Engineer
+3,2,3,5,4,I like drugs and want to work in this field,Pharmacist
+3,4,4,5,4,I like genetics and want to work in this field,Biotech Scientist
+3,5,2,2,4,I like hr and want to work in this field,MBA HR
+5,2,4,3,5,I like science and want to work in this field,Scientist
+4,5,4,4,2,I like apps and want to work in this field,Software Engineer
+5,2,2,4,5,I like biology and want to work in this field,Biotech Scientist
+4,4,2,2,2,I like security and want to work in this field,Cyber Security Engineer
+4,2,4,3,2,I like unity and want to work in this field,Game Developer
+4,2,2,2,3,I like games and want to work in this field,Game Developer
+5,4,2,3,3,I like medicine and want to work in this field,Pharmacist
+5,2,3,5,4,I like engines and want to work in this field,Mechanical Engineer
+3,2,3,3,5,I like planning and want to work in this field,Product Manager
+3,2,4,2,2,I like universe and want to work in this field,Astrophysicist
+5,2,3,5,4,I like 3d and want to work in this field,AR VR Engineer
+5,5,3,2,3,I like 3d and want to work in this field,AR VR Engineer
+5,3,3,4,4,I like product and want to work in this field,Product Manager
+4,5,5,2,3,I like experiments and want to work in this field,Scientist
+4,5,4,5,3,I like graphics and want to work in this field,Game Developer
+3,3,5,5,3,I like analysis and want to work in this field,Business Analyst
+4,2,2,2,5,I like planning and want to work in this field,Product Manager
+3,5,2,4,5,I like blockchain and want to work in this field,Blockchain Developer
+4,4,4,5,4,I like software and want to work in this field,Software Engineer
+3,3,2,5,5,I like management and want to work in this field,MBA HR
+4,5,2,3,5,I like space and want to work in this field,Astrophysicist
+5,5,5,5,3,I like planning and want to work in this field,Product Manager
+4,2,2,3,2,I like academics and want to work in this field,Professor
+5,4,2,2,4,I like strategy and want to work in this field,Business Analyst
+3,2,4,2,5,I like security and want to work in this field,Cyber Security Engineer
+4,5,4,5,5,I like analysis and want to work in this field,Business Analyst
+3,5,3,2,4,I like education and want to work in this field,Professor
+3,4,4,4,5,I like mechanics and want to work in this field,Mechanical Engineer
+3,2,4,5,5,I like circuits and want to work in this field,Electronics Engineer
+5,4,2,5,4,I like teaching and want to work in this field,Professor
+3,3,4,4,3,I like hr and want to work in this field,MBA HR
+5,3,3,2,5,I like chemistry and want to work in this field,Chemist
+5,2,2,5,5,I like movement and want to work in this field,Physiotherapist
+3,5,2,5,3,I like ai and want to work in this field,AI Engineer
+3,5,3,3,5,I like analysis and want to work in this field,Data Scientist
+5,3,3,2,2,I like blockchain and want to work in this field,Blockchain Developer
+5,5,5,3,2,I like analysis and want to work in this field,Business Analyst
+3,4,2,2,3,I like teeth and want to work in this field,Dentist
+3,2,5,5,2,I like statistics and want to work in this field,Data Scientist
+5,3,2,3,3,I like 3d and want to work in this field,AR VR Engineer
+5,4,3,5,3,I like rehab and want to work in this field,Physiotherapist
+4,3,5,4,3,I like product and want to work in this field,Product Manager
+4,2,5,4,5,I like security and want to work in this field,Cyber Security Engineer
+5,4,2,5,4,I like patients and want to work in this field,Nurse
+4,5,2,5,4,I like universe and want to work in this field,Astrophysicist
+3,3,3,4,2,I like security and want to work in this field,Cyber Security Engineer
+3,4,4,4,5,I like genetics and want to work in this field,Biotech Scientist
+4,2,3,3,5,I like circuits and want to work in this field,Electronics Engineer
+3,4,4,2,5,I like markets and want to work in this field,MBA Finance
+3,4,3,3,2,I like networks and want to work in this field,Cyber Security Engineer
+4,3,3,5,2,I like machine learning and want to work in this field,AI Engineer
+4,4,3,2,4,I like patients and want to work in this field,Nurse
+5,3,2,5,4,I like experiments and want to work in this field,Scientist
+4,4,4,2,3,I like management and want to work in this field,MBA HR
+3,2,4,3,4,I like finance and want to work in this field,MBA Finance
+5,5,2,2,2,I like therapy and want to work in this field,Physiotherapist
+3,5,4,2,5,I like biotech and want to work in this field,Biotech Scientist
+5,3,4,5,3,I like mechanics and want to work in this field,Mechanical Engineer
+4,5,2,5,4,I like marketing and want to work in this field,MBA Marketing
+3,5,3,5,4,I like people and want to work in this field,MBA HR
+4,3,2,4,2,I like papers and want to work in this field,Researcher
+5,3,4,3,5,I like coding and want to work in this field,Software Engineer
+5,4,2,4,5,I like teeth and want to work in this field,Dentist
+4,5,5,5,5,I like biology and want to work in this field,Biotech Scientist
+5,3,2,5,3,I like patients and want to work in this field,Nurse
+3,5,2,3,5,I like unity and want to work in this field,Game Developer
+5,3,2,2,2,I like sales and want to work in this field,MBA Marketing
+5,5,5,2,5,I like circuits and want to work in this field,Electronics Engineer
+3,5,5,2,3,I like engines and want to work in this field,Mechanical Engineer
+5,2,5,4,5,I like genetics and want to work in this field,Biotech Scientist
+3,5,5,5,3,I like robotics and want to work in this field,Electronics Engineer
+4,2,3,2,4,I like oral health and want to work in this field,Dentist
+4,5,4,5,2,I like studies and want to work in this field,Researcher
+5,5,2,3,5,I like chemistry and want to work in this field,Pharmacist
+5,2,4,5,5,I like healthcare and want to work in this field,Doctor
+4,5,2,5,2,I like unity and want to work in this field,Game Developer
+3,2,3,3,3,I like care and want to work in this field,Nurse
+3,3,3,2,2,I like programming and want to work in this field,Software Engineer
+5,4,3,5,4,I like engines and want to work in this field,Mechanical Engineer
+4,5,3,4,2,I like hr and want to work in this field,MBA HR
+3,4,2,2,2,I like engines and want to work in this field,Mechanical Engineer
+4,4,4,2,2,I like drugs and want to work in this field,Pharmacist
+5,5,2,5,2,I like statistics and want to work in this field,Data Scientist
+4,4,4,2,3,I like hospital and want to work in this field,Nurse
+5,4,3,3,3,I like studies and want to work in this field,Researcher
+4,2,3,3,4,I like patients and want to work in this field,Doctor
+5,2,4,5,5,I like teeth and want to work in this field,Dentist
+5,3,2,2,2,I like investment and want to work in this field,MBA Finance
+3,5,3,5,4,I like oral health and want to work in this field,Dentist
+4,4,5,5,5,I like analysis and want to work in this field,Data Scientist
+3,2,4,5,5,I like software and want to work in this field,Software Engineer
+4,3,5,5,3,I like programming and want to work in this field,Software Engineer
+3,3,5,3,2,I like metaverse and want to work in this field,AR VR Engineer
+5,5,2,2,3,I like crypto and want to work in this field,Blockchain Developer
+3,3,5,3,3,I like product and want to work in this field,Product Manager
+5,3,3,5,4,I like science and want to work in this field,Scientist
+3,3,5,4,3,I like experiments and want to work in this field,Scientist
+4,4,4,2,2,I like therapy and want to work in this field,Physiotherapist
+5,2,4,3,5,I like metaverse and want to work in this field,AR VR Engineer
+3,3,4,5,2,I like sales and want to work in this field,MBA Marketing
+4,4,3,5,4,I like circuits and want to work in this field,Electronics Engineer
+5,5,4,4,5,I like finance and want to work in this field,MBA Finance
+5,4,5,5,5,I like academics and want to work in this field,Professor
+5,4,2,4,5,I like biology and want to work in this field,Biotech Scientist
+3,4,4,5,5,I like analysis and want to work in this field,Data Scientist
+3,5,3,4,4,I like machines and want to work in this field,Mechanical Engineer
+4,3,2,2,2,I like virtual reality and want to work in this field,AR VR Engineer
+3,4,4,4,3,I like hacking and want to work in this field,Cyber Security Engineer
+4,3,5,5,2,I like engines and want to work in this field,Mechanical Engineer
+5,5,2,3,4,I like marketing and want to work in this field,MBA Marketing
+4,3,2,2,5,I like games and want to work in this field,Game Developer
+5,3,2,3,5,I like people and want to work in this field,MBA HR
+3,4,2,3,5,I like movement and want to work in this field,Physiotherapist
+3,5,4,2,4,I like molecules and want to work in this field,Chemist
+4,5,4,4,3,I like reactions and want to work in this field,Chemist
+5,4,4,4,3,I like investment and want to work in this field,MBA Finance
+3,5,4,4,5,I like investment and want to work in this field,MBA Finance
+4,3,3,3,5,I like machines and want to work in this field,Mechanical Engineer
+4,3,5,4,2,I like aws and want to work in this field,Cloud Engineer
+5,3,2,5,3,I like security and want to work in this field,Cyber Security Engineer
+3,5,5,5,3,I like coding and want to work in this field,Software Engineer
+5,2,4,3,2,I like business and want to work in this field,Business Analyst
+5,4,4,5,4,I like data and want to work in this field,Data Scientist
+3,5,4,5,2,I like networks and want to work in this field,Cyber Security Engineer
+4,2,3,3,2,I like teeth and want to work in this field,Dentist
+4,5,4,4,2,I like healthcare and want to work in this field,Doctor
+4,3,5,5,2,I like rehab and want to work in this field,Physiotherapist
+5,3,4,2,5,I like machine learning and want to work in this field,AI Engineer
+4,5,5,5,4,I like engines and want to work in this field,Mechanical Engineer
+3,4,5,4,4,I like finance and want to work in this field,MBA Finance
+3,2,4,5,5,I like education and want to work in this field,Professor
+5,2,4,2,2,I like markets and want to work in this field,MBA Finance
+5,5,4,5,2,I like crypto and want to work in this field,Blockchain Developer
+3,5,2,2,5,I like analysis and want to work in this field,Business Analyst
+5,5,3,2,4,I like graphics and want to work in this field,Game Developer
+3,4,4,3,4,I like therapy and want to work in this field,Physiotherapist
+4,4,4,2,3,I like data and want to work in this field,Data Scientist
+3,3,3,2,2,I like space and want to work in this field,Astrophysicist
+3,3,3,2,4,I like patients and want to work in this field,Doctor
+5,5,5,3,2,I like drugs and want to work in this field,Pharmacist
+4,3,3,5,4,I like sales and want to work in this field,MBA Marketing
+5,3,4,5,4,I like 3d and want to work in this field,AR VR Engineer
+5,2,3,5,4,I like genetics and want to work in this field,Biotech Scientist
+4,5,2,2,3,I like chemistry and want to work in this field,Chemist
+5,5,2,3,3,I like patients and want to work in this field,Doctor
+3,5,5,3,3,I like academics and want to work in this field,Professor
+3,3,5,3,3,I like experiments and want to work in this field,Scientist
+4,5,4,3,2,I like mechanics and want to work in this field,Mechanical Engineer
+3,3,2,4,4,I like medicine and want to work in this field,Pharmacist
+3,3,2,2,4,I like dental care and want to work in this field,Dentist
+5,3,4,3,5,I like analysis and want to work in this field,Business Analyst
+3,3,5,2,2,I like robotics and want to work in this field,Electronics Engineer
+4,4,4,3,2,I like papers and want to work in this field,Researcher
+4,4,3,2,5,I like virtual reality and want to work in this field,AR VR Engineer
+5,4,4,2,4,I like education and want to work in this field,Professor
+5,3,4,4,3,I like machine learning and want to work in this field,AI Engineer
+4,4,5,5,3,I like teeth and want to work in this field,Dentist
+4,2,2,4,3,I like blockchain and want to work in this field,Blockchain Developer
+4,5,4,3,2,I like metaverse and want to work in this field,AR VR Engineer
+3,3,5,2,4,I like robotics and want to work in this field,Electronics Engineer
+3,2,5,4,4,I like data and want to work in this field,Data Scientist
+4,5,5,3,4,I like programming and want to work in this field,Software Engineer
+3,3,5,5,2,I like programming and want to work in this field,Software Engineer
+4,4,2,2,4,I like research and want to work in this field,Scientist
+3,4,2,5,5,I like drugs and want to work in this field,Pharmacist
+5,4,5,2,5,I like neural networks and want to work in this field,AI Engineer
+4,5,3,5,4,I like hospital and want to work in this field,Nurse
+3,3,4,3,4,I like stars and want to work in this field,Astrophysicist
+3,4,3,4,3,I like drugs and want to work in this field,Pharmacist
+5,2,5,5,2,I like unity and want to work in this field,Game Developer
+5,5,5,4,5,I like crypto and want to work in this field,Blockchain Developer

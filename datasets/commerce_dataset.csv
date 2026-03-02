@@ -1,0 +1,501 @@
+logical,creative,social,leadership,practical,interest_text,field
+18,5,19,20,7,I enjoy analyzing economic data,Economist
+16,12,19,14,5,I enjoy statistics and finance,Actuary
+7,13,5,6,7,I like managing big investments,Investment Banker
+13,7,14,20,16,I like finance and customer service,Banking Officer
+13,13,7,8,11,I like risk analysis,Actuary
+20,6,6,5,5,I enjoy checking financial records,Auditor
+10,17,14,6,5,I follow share markets,Stock Market Trader
+11,19,5,9,7,I enjoy stock trading,Stock Market Trader
+16,9,19,19,16,I enjoy advertising and marketing,MBA Marketing
+6,11,14,6,8,I like auditing accounts,Auditor
+9,5,5,16,8,I like accounting and auditing,Chartered Accountant
+18,5,11,19,14,I enjoy analyzing economic data,Economist
+7,11,17,15,11,I enjoy working with balance sheets,Chartered Accountant
+18,8,8,14,19,I like social media marketing,Digital Marketer
+5,12,16,20,5,I like social media marketing,Digital Marketer
+13,16,12,10,20,I like business analytics,Business Analyst
+13,13,11,8,13,I enjoy stock trading,Stock Market Trader
+12,7,7,20,13,I enjoy online branding,Digital Marketer
+17,13,18,12,19,I enjoy working with balance sheets,Chartered Accountant
+13,12,19,20,5,I like branding and sales,MBA Marketing
+15,19,12,19,9,I enjoy studying markets,Financial Analyst
+17,12,5,12,20,I enjoy analyzing economic data,Economist
+8,13,11,19,19,I enjoy working with balance sheets,Chartered Accountant
+17,16,11,14,8,I like economics and research,Economist
+7,8,12,15,5,I like social media marketing,Digital Marketer
+9,16,12,10,10,I like accounting and auditing,Chartered Accountant
+7,8,16,14,14,I enjoy HR activities,MBA HR
+18,17,11,5,18,I like financial data analysis,Financial Analyst
+19,7,18,20,7,I like managing people,MBA HR
+18,8,6,9,11,I enjoy analyzing economic data,Economist
+20,9,5,13,8,I want to work in banking,Banking Officer
+17,18,14,13,20,I enjoy online branding,Digital Marketer
+7,6,18,15,14,I like auditing accounts,Auditor
+15,7,19,19,5,I enjoy solving business problems,Business Analyst
+11,5,13,9,7,I enjoy advertising and marketing,MBA Marketing
+15,16,7,10,19,I enjoy statistics and finance,Actuary
+5,5,5,18,16,I enjoy stock trading,Stock Market Trader
+7,8,16,11,11,I like corporate law and management,Company Secretary
+13,8,14,5,17,I enjoy online branding,Digital Marketer
+12,15,8,10,13,I enjoy stock trading,Stock Market Trader
+17,8,20,18,19,I like corporate law and management,Company Secretary
+12,7,19,14,10,I like managing big investments,Investment Banker
+9,19,18,11,8,I enjoy solving business problems,Business Analyst
+8,14,19,20,17,I enjoy checking financial records,Auditor
+15,11,6,5,15,I like business finance,MBA Finance
+6,8,13,12,20,I like risk analysis,Actuary
+6,14,13,7,13,I enjoy HR activities,MBA HR
+14,13,9,5,20,I like auditing accounts,Auditor
+13,14,14,19,6,I enjoy innovation and startups,Entrepreneur
+11,12,12,11,10,I enjoy studying markets,Financial Analyst
+5,19,5,20,13,I enjoy checking financial records,Auditor
+16,7,11,16,8,I like managing big investments,Investment Banker
+6,9,6,5,19,I like financial data analysis,Financial Analyst
+7,10,13,7,8,I like auditing accounts,Auditor
+14,18,9,7,11,I follow share markets,Stock Market Trader
+10,10,5,17,8,I enjoy solving business problems,Business Analyst
+14,19,5,18,19,I enjoy advertising and marketing,MBA Marketing
+20,9,13,12,8,I enjoy innovation and startups,Entrepreneur
+5,13,15,17,15,I like managing big investments,Investment Banker
+18,9,11,14,6,I like social media marketing,Digital Marketer
+6,13,16,17,9,I want to do MBA in finance,MBA Finance
+13,15,11,17,7,I like managing people,MBA HR
+16,5,7,20,9,I like accounting and auditing,Chartered Accountant
+6,6,20,7,17,I like financial data analysis,Financial Analyst
+17,7,16,10,16,I want to do MBA in finance,MBA Finance
+15,5,13,5,14,I like business finance,MBA Finance
+18,13,18,17,10,I enjoy working with balance sheets,Chartered Accountant
+7,8,20,18,7,I like business analytics,Business Analyst
+11,19,13,12,13,I like social media marketing,Digital Marketer
+11,18,16,19,14,I enjoy checking financial records,Auditor
+16,11,18,16,8,I like corporate law and management,Company Secretary
+7,13,17,9,16,I like corporate law and management,Company Secretary
+15,14,20,5,6,I want to work in banking,Banking Officer
+6,17,5,8,19,I want to work in banking,Banking Officer
+11,10,17,7,9,I follow share markets,Stock Market Trader
+10,12,6,16,12,I like auditing accounts,Auditor
+12,17,7,19,11,I enjoy working with balance sheets,Chartered Accountant
+11,13,6,9,10,I like managing people,MBA HR
+19,6,20,17,13,I like economics and research,Economist
+7,9,17,17,19,I like auditing accounts,Auditor
+10,9,13,5,5,I enjoy analyzing economic data,Economist
+15,11,11,7,12,I want to start my own business,Entrepreneur
+19,16,5,20,17,I enjoy advertising and marketing,MBA Marketing
+13,13,14,19,11,I enjoy studying markets,Financial Analyst
+20,9,9,5,11,I enjoy studying markets,Financial Analyst
+17,5,17,6,20,I like auditing accounts,Auditor
+8,14,20,8,5,I enjoy working with balance sheets,Chartered Accountant
+11,10,14,12,9,I like managing big investments,Investment Banker
+19,6,8,14,5,I want to do MBA in finance,MBA Finance
+9,8,11,6,11,I like business analytics,Business Analyst
+5,6,20,14,11,I want to start my own business,Entrepreneur
+5,12,6,9,11,I enjoy stock trading,Stock Market Trader
+19,18,9,6,5,I follow share markets,Stock Market Trader
+13,20,20,15,15,I enjoy analyzing economic data,Economist
+12,18,12,17,14,I enjoy working with balance sheets,Chartered Accountant
+8,12,12,16,10,I enjoy statistics and finance,Actuary
+8,16,9,6,19,I like business finance,MBA Finance
+7,5,9,13,16,I follow share markets,Stock Market Trader
+16,18,5,19,12,I want to work in investment banking,Investment Banker
+12,9,16,15,16,I want to work in investment banking,Investment Banker
+15,5,19,11,19,I enjoy working with balance sheets,Chartered Accountant
+11,20,15,14,19,I like finance and customer service,Banking Officer
+7,16,18,9,5,I like business finance,MBA Finance
+14,19,12,16,18,I follow share markets,Stock Market Trader
+16,20,13,13,17,I enjoy working with balance sheets,Chartered Accountant
+5,13,5,15,9,I enjoy HR activities,MBA HR
+6,14,13,9,7,I enjoy HR activities,MBA HR
+14,19,14,7,7,I enjoy statistics and finance,Actuary
+10,10,11,19,9,I want to do MBA in finance,MBA Finance
+5,7,15,19,8,I like branding and sales,MBA Marketing
+12,14,20,7,17,I like risk analysis,Actuary
+15,15,18,12,17,I enjoy solving business problems,Business Analyst
+19,11,7,6,19,I enjoy checking financial records,Auditor
+20,5,14,10,8,I enjoy studying markets,Financial Analyst
+9,15,11,11,18,I like branding and sales,MBA Marketing
+10,15,19,16,14,I like finance and customer service,Banking Officer
+17,11,17,14,18,I enjoy innovation and startups,Entrepreneur
+13,9,15,19,20,I want to start my own business,Entrepreneur
+5,10,20,13,19,I enjoy innovation and startups,Entrepreneur
+17,18,7,18,18,I like social media marketing,Digital Marketer
+13,8,10,12,20,I like economics and research,Economist
+12,19,6,14,6,I like managing big investments,Investment Banker
+8,7,13,9,12,I enjoy checking financial records,Auditor
+14,16,18,20,19,I enjoy innovation and startups,Entrepreneur
+17,11,16,9,19,I enjoy stock trading,Stock Market Trader
+17,19,13,18,12,I like auditing accounts,Auditor
+12,9,20,18,5,I enjoy studying markets,Financial Analyst
+9,18,7,19,13,I enjoy working with balance sheets,Chartered Accountant
+10,11,13,14,12,I like branding and sales,MBA Marketing
+6,19,18,20,20,I enjoy advertising and marketing,MBA Marketing
+13,14,16,19,9,I like auditing accounts,Auditor
+17,17,9,10,19,I like business analytics,Business Analyst
+20,16,19,17,15,I like business analytics,Business Analyst
+18,6,19,7,18,I enjoy online branding,Digital Marketer
+5,13,5,12,17,I enjoy HR activities,MBA HR
+6,17,8,18,10,I like financial data analysis,Financial Analyst
+12,12,17,16,13,I want to work in investment banking,Investment Banker
+9,12,15,12,18,I like managing big investments,Investment Banker
+11,10,5,9,5,I like economics and research,Economist
+6,8,10,17,14,I like branding and sales,MBA Marketing
+7,9,10,20,12,I like branding and sales,MBA Marketing
+10,20,20,17,9,I like economics and research,Economist
+13,11,12,5,14,I enjoy solving business problems,Business Analyst
+15,6,13,6,6,I enjoy checking financial records,Auditor
+8,10,18,10,16,I like economics and research,Economist
+20,8,17,8,10,I follow share markets,Stock Market Trader
+9,19,20,20,16,I enjoy innovation and startups,Entrepreneur
+6,7,13,8,10,I like risk analysis,Actuary
+6,6,7,10,13,I want to do MBA in finance,MBA Finance
+14,8,13,18,16,I follow share markets,Stock Market Trader
+5,14,11,19,8,I like accounting and auditing,Chartered Accountant
+13,9,13,16,8,I like corporate law and management,Company Secretary
+14,20,11,20,12,I like economics and research,Economist
+16,15,19,20,7,I like business analytics,Business Analyst
+19,10,16,8,20,I enjoy analyzing economic data,Economist
+17,17,18,13,14,I like managing big investments,Investment Banker
+8,6,19,5,12,I want to manage company records,Company Secretary
+5,13,9,18,10,I want to manage company records,Company Secretary
+15,14,14,12,19,I want to work in banking,Banking Officer
+14,9,8,18,20,I like managing big investments,Investment Banker
+14,6,16,8,6,I enjoy solving business problems,Business Analyst
+11,6,16,15,14,I enjoy innovation and startups,Entrepreneur
+17,9,12,14,13,I enjoy analyzing economic data,Economist
+7,5,15,20,5,I enjoy innovation and startups,Entrepreneur
+7,19,14,13,8,I enjoy working with balance sheets,Chartered Accountant
+18,5,10,20,6,I enjoy innovation and startups,Entrepreneur
+9,11,17,12,20,I want to work in investment banking,Investment Banker
+8,15,8,15,6,I like corporate law and management,Company Secretary
+13,9,13,18,10,I enjoy stock trading,Stock Market Trader
+15,12,16,18,5,I want to do MBA in finance,MBA Finance
+12,13,19,20,20,I enjoy studying markets,Financial Analyst
+10,10,5,17,11,I like business finance,MBA Finance
+13,5,11,8,15,I want to work in banking,Banking Officer
+18,5,19,15,10,I like business analytics,Business Analyst
+20,9,8,17,6,I like business analytics,Business Analyst
+18,9,13,8,11,I enjoy solving business problems,Business Analyst
+13,15,10,13,15,I like branding and sales,MBA Marketing
+11,18,8,20,19,I like economics and research,Economist
+20,10,9,7,7,I want to start my own business,Entrepreneur
+14,12,5,16,10,I like branding and sales,MBA Marketing
+7,13,7,9,5,I like business analytics,Business Analyst
+16,8,13,16,7,I like social media marketing,Digital Marketer
+11,15,18,11,20,I enjoy solving business problems,Business Analyst
+15,14,19,17,17,I enjoy solving business problems,Business Analyst
+13,9,8,8,5,I want to do MBA in finance,MBA Finance
+7,9,9,12,13,I like risk analysis,Actuary
+15,12,18,15,14,I enjoy HR activities,MBA HR
+10,11,9,11,5,I want to work in investment banking,Investment Banker
+6,15,5,8,19,I like business finance,MBA Finance
+11,5,8,17,19,I enjoy studying markets,Financial Analyst
+15,9,13,16,17,I like managing people,MBA HR
+5,16,7,9,13,I enjoy analyzing economic data,Economist
+20,15,16,19,8,I like financial data analysis,Financial Analyst
+19,7,20,9,9,I like finance and customer service,Banking Officer
+17,12,7,18,20,I like financial data analysis,Financial Analyst
+17,6,17,7,9,I like auditing accounts,Auditor
+6,14,18,13,12,I like business finance,MBA Finance
+14,20,20,18,18,I like business finance,MBA Finance
+12,14,20,18,18,I follow share markets,Stock Market Trader
+12,15,15,7,20,I enjoy studying markets,Financial Analyst
+6,13,9,19,17,I like finance and customer service,Banking Officer
+13,10,16,6,5,I enjoy innovation and startups,Entrepreneur
+13,18,11,13,8,I enjoy stock trading,Stock Market Trader
+7,18,12,16,12,I want to manage company records,Company Secretary
+18,12,16,11,7,I like managing big investments,Investment Banker
+15,17,5,14,7,I enjoy stock trading,Stock Market Trader
+11,16,10,17,6,I enjoy online branding,Digital Marketer
+17,12,9,7,9,I want to start my own business,Entrepreneur
+5,12,6,18,20,I enjoy HR activities,MBA HR
+20,9,19,15,11,I like economics and research,Economist
+19,20,14,11,16,I like finance and customer service,Banking Officer
+17,10,17,6,7,I like economics and research,Economist
+11,7,13,11,6,I want to do MBA in finance,MBA Finance
+7,16,9,15,13,I enjoy HR activities,MBA HR
+10,15,8,15,18,I want to manage company records,Company Secretary
+8,16,7,7,9,I want to work in banking,Banking Officer
+10,19,10,13,10,I enjoy online branding,Digital Marketer
+17,8,9,19,9,I enjoy solving business problems,Business Analyst
+13,6,11,18,20,I want to start my own business,Entrepreneur
+10,16,17,15,12,I enjoy working with balance sheets,Chartered Accountant
+19,7,14,13,17,I like managing big investments,Investment Banker
+7,20,15,19,20,I like economics and research,Economist
+8,17,18,17,18,I like managing big investments,Investment Banker
+10,14,16,7,17,I want to manage company records,Company Secretary
+13,19,8,10,7,I like managing big investments,Investment Banker
+12,16,10,5,8,I like business analytics,Business Analyst
+14,6,8,16,8,I enjoy advertising and marketing,MBA Marketing
+15,7,13,10,10,I like economics and research,Economist
+6,15,14,19,20,I like business analytics,Business Analyst
+9,15,6,14,17,I follow share markets,Stock Market Trader
+14,13,18,19,20,I want to work in banking,Banking Officer
+14,5,14,10,8,I enjoy checking financial records,Auditor
+6,11,9,12,5,I like managing people,MBA HR
+13,14,17,9,7,I like social media marketing,Digital Marketer
+6,9,19,12,13,I want to work in investment banking,Investment Banker
+19,16,13,8,8,I like accounting and auditing,Chartered Accountant
+10,13,11,9,10,I enjoy analyzing economic data,Economist
+17,18,20,13,7,I want to do MBA in finance,MBA Finance
+15,20,13,19,6,I enjoy statistics and finance,Actuary
+19,10,12,12,19,I like accounting and auditing,Chartered Accountant
+7,5,5,9,20,I like corporate law and management,Company Secretary
+16,18,19,19,19,I like managing big investments,Investment Banker
+19,14,8,17,18,I like business analytics,Business Analyst
+15,6,15,19,16,I like risk analysis,Actuary
+5,10,18,9,18,I enjoy stock trading,Stock Market Trader
+16,14,12,11,5,I like accounting and auditing,Chartered Accountant
+19,20,7,14,5,I like business analytics,Business Analyst
+13,6,9,20,11,I enjoy online branding,Digital Marketer
+11,14,5,17,6,I want to do MBA in finance,MBA Finance
+12,10,11,9,13,I like managing people,MBA HR
+15,16,12,7,6,I want to do MBA in finance,MBA Finance
+15,5,5,18,10,I want to manage company records,Company Secretary
+12,7,8,5,14,I want to do MBA in finance,MBA Finance
+8,9,10,14,10,I enjoy analyzing economic data,Economist
+9,12,10,5,7,I like managing big investments,Investment Banker
+11,6,10,17,8,I like managing big investments,Investment Banker
+17,20,8,16,10,I enjoy advertising and marketing,MBA Marketing
+16,13,12,9,6,I like economics and research,Economist
+15,13,19,13,20,I like branding and sales,MBA Marketing
+12,8,7,12,5,I enjoy solving business problems,Business Analyst
+7,20,10,5,13,I like branding and sales,MBA Marketing
+16,12,9,20,15,I like financial data analysis,Financial Analyst
+13,19,19,7,5,I want to manage company records,Company Secretary
+6,7,12,7,19,I enjoy statistics and finance,Actuary
+7,13,8,10,8,I follow share markets,Stock Market Trader
+8,17,16,9,9,I like social media marketing,Digital Marketer
+6,10,10,6,5,I like financial data analysis,Financial Analyst
+14,19,5,8,18,I enjoy online branding,Digital Marketer
+6,5,15,18,9,I want to manage company records,Company Secretary
+19,9,10,19,17,I like corporate law and management,Company Secretary
+7,10,8,13,8,I enjoy checking financial records,Auditor
+5,5,11,13,6,I enjoy analyzing economic data,Economist
+5,10,10,5,12,I enjoy solving business problems,Business Analyst
+13,10,6,5,17,I enjoy advertising and marketing,MBA Marketing
+5,12,13,18,9,I like business finance,MBA Finance
+7,5,9,7,13,I like economics and research,Economist
+16,12,18,9,17,I want to start my own business,Entrepreneur
+5,15,6,8,14,I like managing people,MBA HR
+19,13,6,20,8,I want to manage company records,Company Secretary
+13,17,9,14,18,I enjoy HR activities,MBA HR
+9,20,12,12,12,I enjoy studying markets,Financial Analyst
+18,5,15,6,14,I like branding and sales,MBA Marketing
+12,15,9,13,17,I enjoy statistics and finance,Actuary
+12,11,19,13,17,I like auditing accounts,Auditor
+18,13,7,7,18,I enjoy checking financial records,Auditor
+16,9,8,12,6,I enjoy online branding,Digital Marketer
+10,20,18,11,12,I enjoy innovation and startups,Entrepreneur
+19,12,10,14,5,I like economics and research,Economist
+19,10,19,16,15,I enjoy working with balance sheets,Chartered Accountant
+5,19,19,19,10,I like risk analysis,Actuary
+15,6,5,5,9,I enjoy working with balance sheets,Chartered Accountant
+19,10,15,11,20,I like branding and sales,MBA Marketing
+17,15,7,16,17,I enjoy analyzing economic data,Economist
+20,12,17,6,7,I like branding and sales,MBA Marketing
+18,7,18,13,15,I enjoy online branding,Digital Marketer
+13,19,6,10,18,I enjoy working with balance sheets,Chartered Accountant
+13,17,5,12,8,I want to work in banking,Banking Officer
+5,5,5,14,6,I like economics and research,Economist
+18,20,8,16,5,I want to work in investment banking,Investment Banker
+18,16,11,10,7,I enjoy working with balance sheets,Chartered Accountant
+8,14,10,12,18,I like social media marketing,Digital Marketer
+16,16,7,9,8,I like social media marketing,Digital Marketer
+19,18,17,9,16,I want to manage company records,Company Secretary
+8,6,5,18,10,I like branding and sales,MBA Marketing
+15,5,18,19,16,I enjoy HR activities,MBA HR
+20,13,9,16,5,I like auditing accounts,Auditor
+11,6,12,10,5,I enjoy statistics and finance,Actuary
+9,20,8,7,20,I enjoy advertising and marketing,MBA Marketing
+14,20,18,11,10,I enjoy checking financial records,Auditor
+17,10,16,14,14,I enjoy online branding,Digital Marketer
+19,11,11,19,10,I enjoy innovation and startups,Entrepreneur
+18,7,17,10,8,I like corporate law and management,Company Secretary
+6,20,6,20,15,I like managing people,MBA HR
+10,7,8,7,9,I like finance and customer service,Banking Officer
+5,15,15,15,19,I enjoy statistics and finance,Actuary
+17,17,12,17,10,I like business analytics,Business Analyst
+12,7,11,12,7,I like corporate law and management,Company Secretary
+20,14,14,15,13,I enjoy innovation and startups,Entrepreneur
+15,15,13,5,5,I enjoy checking financial records,Auditor
+10,13,10,18,13,I like financial data analysis,Financial Analyst
+12,10,19,10,18,I enjoy statistics and finance,Actuary
+17,9,8,14,7,I follow share markets,Stock Market Trader
+14,11,20,9,7,I enjoy HR activities,MBA HR
+16,18,5,12,8,I enjoy statistics and finance,Actuary
+5,7,9,12,6,I enjoy advertising and marketing,MBA Marketing
+12,20,19,8,11,I like risk analysis,Actuary
+15,14,8,13,5,I like economics and research,Economist
+9,7,11,19,10,I enjoy statistics and finance,Actuary
+16,19,5,15,8,I enjoy analyzing economic data,Economist
+12,10,6,19,18,I want to work in banking,Banking Officer
+8,11,7,14,12,I want to start my own business,Entrepreneur
+11,13,8,8,6,I like social media marketing,Digital Marketer
+6,9,17,13,7,I like managing big investments,Investment Banker
+18,6,11,12,19,I enjoy working with balance sheets,Chartered Accountant
+8,20,20,7,15,I enjoy online branding,Digital Marketer
+12,15,14,7,5,I like finance and customer service,Banking Officer
+20,13,14,9,13,I enjoy solving business problems,Business Analyst
+8,10,17,13,6,I like branding and sales,MBA Marketing
+17,5,12,13,5,I want to do MBA in finance,MBA Finance
+8,15,17,11,20,I like financial data analysis,Financial Analyst
+19,8,18,11,12,I enjoy HR activities,MBA HR
+9,15,12,5,18,I like corporate law and management,Company Secretary
+20,11,8,11,18,I like risk analysis,Actuary
+8,9,14,10,8,I enjoy HR activities,MBA HR
+20,14,7,13,12,I like managing big investments,Investment Banker
+9,18,6,14,12,I enjoy stock trading,Stock Market Trader
+11,15,14,19,11,I enjoy working with balance sheets,Chartered Accountant
+10,7,13,11,16,I like auditing accounts,Auditor
+16,17,14,18,17,I enjoy studying markets,Financial Analyst
+8,17,6,8,11,I like economics and research,Economist
+12,6,15,7,16,I want to start my own business,Entrepreneur
+20,12,7,6,12,I enjoy HR activities,MBA HR
+5,14,9,7,8,I enjoy HR activities,MBA HR
+12,6,5,8,10,I want to work in investment banking,Investment Banker
+17,20,17,13,20,I want to work in banking,Banking Officer
+14,19,16,18,19,I follow share markets,Stock Market Trader
+15,9,18,7,18,I like risk analysis,Actuary
+8,11,16,12,16,I like corporate law and management,Company Secretary
+14,12,10,7,13,I enjoy analyzing economic data,Economist
+6,10,14,17,14,I like economics and research,Economist
+15,11,11,19,12,I want to work in banking,Banking Officer
+11,14,14,9,7,I like finance and customer service,Banking Officer
+18,10,6,9,7,I enjoy stock trading,Stock Market Trader
+8,6,8,9,17,I like branding and sales,MBA Marketing
+17,8,13,10,16,I like financial data analysis,Financial Analyst
+8,7,20,11,14,I enjoy innovation and startups,Entrepreneur
+8,12,18,10,15,I like social media marketing,Digital Marketer
+18,5,16,11,10,I like business analytics,Business Analyst
+16,7,12,20,8,I enjoy statistics and finance,Actuary
+20,18,13,13,7,I like managing big investments,Investment Banker
+8,6,5,9,20,I like auditing accounts,Auditor
+17,6,9,11,15,I like managing people,MBA HR
+15,7,14,9,10,I like financial data analysis,Financial Analyst
+13,9,6,20,16,I like finance and customer service,Banking Officer
+13,20,12,15,19,I enjoy HR activities,MBA HR
+7,13,13,15,17,I enjoy solving business problems,Business Analyst
+20,20,12,14,17,I want to do MBA in finance,MBA Finance
+19,20,11,8,17,I enjoy working with balance sheets,Chartered Accountant
+14,7,10,7,7,I enjoy solving business problems,Business Analyst
+16,20,10,20,14,I like managing big investments,Investment Banker
+11,19,14,9,16,I want to manage company records,Company Secretary
+5,17,6,19,10,I enjoy studying markets,Financial Analyst
+20,9,10,13,6,I enjoy checking financial records,Auditor
+6,11,6,6,10,I like business finance,MBA Finance
+12,9,16,10,15,I like finance and customer service,Banking Officer
+7,13,14,15,14,I want to do MBA in finance,MBA Finance
+6,13,19,19,17,I want to manage company records,Company Secretary
+8,15,6,16,13,I enjoy checking financial records,Auditor
+20,7,6,12,9,I enjoy checking financial records,Auditor
+5,12,16,18,10,I enjoy statistics and finance,Actuary
+5,12,13,8,6,I enjoy statistics and finance,Actuary
+8,8,16,13,10,I want to work in investment banking,Investment Banker
+16,7,6,14,6,I like business finance,MBA Finance
+14,13,6,8,19,I like managing people,MBA HR
+11,9,13,10,17,I want to work in banking,Banking Officer
+7,16,17,5,10,I like managing big investments,Investment Banker
+13,11,20,14,7,I like social media marketing,Digital Marketer
+11,12,18,8,15,I like auditing accounts,Auditor
+19,14,16,5,14,I want to work in banking,Banking Officer
+10,5,15,20,14,I like accounting and auditing,Chartered Accountant
+20,13,15,14,18,I enjoy online branding,Digital Marketer
+19,16,15,7,20,I enjoy HR activities,MBA HR
+9,18,10,12,13,I enjoy online branding,Digital Marketer
+13,11,16,7,10,I enjoy online branding,Digital Marketer
+8,13,15,12,5,I enjoy HR activities,MBA HR
+9,11,16,10,9,I want to work in banking,Banking Officer
+5,10,7,20,16,I enjoy innovation and startups,Entrepreneur
+17,9,11,12,16,I enjoy analyzing economic data,Economist
+7,10,13,15,15,I like branding and sales,MBA Marketing
+17,8,15,6,20,I enjoy working with balance sheets,Chartered Accountant
+16,17,6,8,17,I enjoy innovation and startups,Entrepreneur
+5,19,11,16,15,I like economics and research,Economist
+13,7,7,9,14,I want to start my own business,Entrepreneur
+13,15,5,9,8,I enjoy analyzing economic data,Economist
+10,7,5,15,6,I enjoy HR activities,MBA HR
+11,6,13,19,17,I like managing big investments,Investment Banker
+5,15,7,16,12,I like business analytics,Business Analyst
+8,15,20,11,8,I like auditing accounts,Auditor
+7,15,12,7,14,I want to work in banking,Banking Officer
+20,14,15,10,11,I like branding and sales,MBA Marketing
+9,13,8,15,18,I enjoy studying markets,Financial Analyst
+18,18,8,14,11,I enjoy studying markets,Financial Analyst
+16,11,17,20,13,I follow share markets,Stock Market Trader
+16,12,17,15,19,I enjoy checking financial records,Auditor
+17,11,16,8,5,I like auditing accounts,Auditor
+5,15,14,13,11,I like corporate law and management,Company Secretary
+10,20,16,6,8,I like corporate law and management,Company Secretary
+10,16,18,17,13,I want to work in investment banking,Investment Banker
+17,7,6,19,8,I like social media marketing,Digital Marketer
+15,5,12,11,8,I like business analytics,Business Analyst
+12,8,11,15,9,I want to work in banking,Banking Officer
+18,19,7,8,9,I enjoy studying markets,Financial Analyst
+18,17,12,20,20,I like accounting and auditing,Chartered Accountant
+9,5,11,6,12,I like branding and sales,MBA Marketing
+11,18,9,18,18,I like risk analysis,Actuary
+15,15,15,8,19,I like risk analysis,Actuary
+18,16,6,18,10,I like accounting and auditing,Chartered Accountant
+18,7,18,7,15,I enjoy studying markets,Financial Analyst
+8,13,17,7,19,I follow share markets,Stock Market Trader
+6,7,13,7,13,I follow share markets,Stock Market Trader
+7,19,16,15,19,I want to start my own business,Entrepreneur
+18,17,8,13,9,I enjoy HR activities,MBA HR
+20,9,16,16,15,I like business analytics,Business Analyst
+6,12,13,5,20,I enjoy online branding,Digital Marketer
+6,9,8,18,13,I enjoy HR activities,MBA HR
+9,10,19,8,20,I enjoy advertising and marketing,MBA Marketing
+15,12,11,13,9,I enjoy HR activities,MBA HR
+14,16,15,8,17,I enjoy working with balance sheets,Chartered Accountant
+17,20,14,20,8,I enjoy checking financial records,Auditor
+12,9,7,7,6,I enjoy HR activities,MBA HR
+17,15,13,7,16,I enjoy online branding,Digital Marketer
+8,10,20,9,15,I like business analytics,Business Analyst
+13,6,19,12,20,I like branding and sales,MBA Marketing
+14,14,6,10,18,I like auditing accounts,Auditor
+6,20,7,11,16,I want to manage company records,Company Secretary
+17,17,9,9,9,I enjoy online branding,Digital Marketer
+6,13,13,13,12,I enjoy stock trading,Stock Market Trader
+16,6,12,15,17,I enjoy checking financial records,Auditor
+8,7,17,12,11,I follow share markets,Stock Market Trader
+7,16,5,14,15,I like branding and sales,MBA Marketing
+9,11,12,5,10,I want to work in investment banking,Investment Banker
+16,20,16,12,15,I enjoy advertising and marketing,MBA Marketing
+6,20,17,14,15,I enjoy statistics and finance,Actuary
+18,7,6,8,12,I like corporate law and management,Company Secretary
+17,18,5,5,15,I like managing people,MBA HR
+15,8,19,16,15,I like managing big investments,Investment Banker
+7,14,15,16,15,I like social media marketing,Digital Marketer
+9,6,12,11,19,I enjoy checking financial records,Auditor
+11,9,19,18,6,I enjoy studying markets,Financial Analyst
+13,20,16,6,20,I enjoy advertising and marketing,MBA Marketing
+12,14,13,14,7,I enjoy solving business problems,Business Analyst
+8,12,17,13,12,I enjoy statistics and finance,Actuary
+5,12,14,14,17,I like branding and sales,MBA Marketing
+17,11,6,7,10,I enjoy studying markets,Financial Analyst
+17,6,20,5,12,I enjoy HR activities,MBA HR
+15,20,19,18,12,I enjoy HR activities,MBA HR
+19,20,6,18,16,I enjoy working with balance sheets,Chartered Accountant
+7,9,20,6,19,I like managing people,MBA HR
+17,12,12,18,19,I like business finance,MBA Finance
+15,19,9,10,9,I like social media marketing,Digital Marketer
+17,11,16,6,19,I enjoy innovation and startups,Entrepreneur
+20,6,14,14,12,I enjoy stock trading,Stock Market Trader
+12,11,17,10,20,I want to work in investment banking,Investment Banker
+6,6,10,18,14,I like finance and customer service,Banking Officer
+11,5,20,16,7,I enjoy statistics and finance,Actuary
+5,9,6,6,16,I want to work in banking,Banking Officer
+10,20,10,19,17,I enjoy statistics and finance,Actuary
+14,7,20,14,17,I follow share markets,Stock Market Trader
+15,13,9,5,16,I like corporate law and management,Company Secretary
+19,18,10,19,7,I like managing big investments,Investment Banker
+16,7,13,8,5,I like business analytics,Business Analyst
+5,6,9,9,20,I want to do MBA in finance,MBA Finance
+9,16,13,13,18,I enjoy analyzing economic data,Economist
+16,15,10,8,9,I like business finance,MBA Finance
+9,12,8,14,14,I enjoy working with balance sheets,Chartered Accountant
+19,14,16,7,11,I like business analytics,Business Analyst
+10,20,16,9,11,I like social media marketing,Digital Marketer
+20,12,17,19,5,I like financial data analysis,Financial Analyst
+12,10,19,8,8,I like financial data analysis,Financial Analyst
+9,12,5,16,10,I enjoy statistics and finance,Actuary
